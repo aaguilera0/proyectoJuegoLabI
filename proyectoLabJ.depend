@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1702663647 source:c:\users\alejandro\desktop\proyecto juego c++\proyectolabj\main.cpp
+	<iostream>
+	<cstdlib>
+	<windows.h>
+	"funciones.h"
+
+1702663731 c:\users\alejandro\desktop\proyecto juego c++\proyectolabj\funciones.h
+
